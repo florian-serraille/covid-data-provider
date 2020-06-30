@@ -4,7 +4,7 @@
  
 Simple batch to daily download updated covid 19 data from https://covid.ourworldindata.org and persist it into MySQL Database;
 
-##Technologies used
+## Technologies used
 
 * **Java 8**
 * **Spring Boot 2.3.0**
